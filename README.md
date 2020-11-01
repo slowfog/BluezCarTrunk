@@ -1,6 +1,6 @@
 # BluezCarTrunk
 依赖
->lib-bluetooth-dev  
+>libbluetooth-dev  
 >pybluz  
 >Raspberry Pi  
 
